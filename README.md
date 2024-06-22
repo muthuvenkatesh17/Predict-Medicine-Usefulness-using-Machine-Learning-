@@ -42,14 +42,7 @@ The provided files are:
 You can view the code in the Jupyter Notebook which is uploaded in the repository.
 
 # Conclusion
-# In this project, we developed a predictive model to automatically assign usefulness scores to medicines
-# based on their descriptions and other features. By using text preprocessing, TF-IDF vectorization, and 
-# Linear Regression, we were able to build a model that predicts the usefulness scores. The RMSE on the 
-# training set was used to evaluate the model's performance. Finally, the predictions were made on the 
-# test dataset, and a submission file was prepared in the required format. This project demonstrates 
-# the application of natural language processing (NLP) techniques and machine learning for predictive 
-# modeling in the healthcare domain. The approach can be further improved by experimenting with more 
-# advanced models and feature engineering techniques.
+In this project, we developed a predictive model to automatically assign usefulness scores to medicines based on their descriptions and other features. By using text preprocessing, TF-IDF vectorization, and  Linear Regression, we were able to build a model that predicts the usefulness scores. The RMSE on the  training set was used to evaluate the model's performance. Finally, the predictions were made on the test dataset, and a submission file was prepared in the required format. This project demonstrates the application of natural language processing (NLP) techniques and machine learning for predictive modeling in the healthcare domain. The approach can be further improved by experimenting with more advanced models and feature engineering techniques.
 
 
 
